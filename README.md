@@ -62,4 +62,8 @@
   interactions, such as cross-multiplying trip distance by time of day to create an
   approximate "traffic density factor."
 
-"""
+<img width="800" height="600" alt="correlation_matrix" src="https://github.com/user-attachments/assets/1467800c-fcc0-4e00-8613-6d29a175f043" />
+
+<img width="1000" height="800" alt="histograms" src="https://github.com/user-attachments/assets/e20575e4-d31f-4293-9ebf-2e30aaa1dfcd" />
+
+<img width="800" height="600" alt="results_chart" src="https://github.com/user-attachments/assets/5682afb1-5db7-40db-8aa2-4de9124a864d" />
